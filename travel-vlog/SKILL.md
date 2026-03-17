@@ -1,5 +1,5 @@
 ---
-name: "旅行Vlog"
+name: "Travel Vlog"
 description: "提供手机剪辑、卡点音效及旅游大片拍摄技巧。"
 ---
 

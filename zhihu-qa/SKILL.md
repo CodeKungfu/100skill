@@ -1,5 +1,5 @@
 ---
-name: "知乎问答"
+name: "Zhihu Q&A"
 description: "提供知乎回答撰写、想法分享及知识专栏指南。"
 ---
 

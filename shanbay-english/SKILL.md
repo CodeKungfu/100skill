@@ -1,5 +1,5 @@
 ---
-name: "扇贝英语"
+name: "Shanbay English"
 description: "提供单词背诵、听力训练及口语模考互动指南。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "抢购速递"
+name: "Flash Sale"
 description: "提供各大电商整点秒杀、抢购助手及预售玩法解析。"
 ---
 

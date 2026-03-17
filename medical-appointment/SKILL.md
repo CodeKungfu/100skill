@@ -1,5 +1,5 @@
 ---
-name: "挂号医保"
+name: "Medical Appointment"
 description: "提供医院在线挂号、医保电子凭证及门诊预约指引。"
 ---
 

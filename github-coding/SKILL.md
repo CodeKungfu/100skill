@@ -1,5 +1,5 @@
 ---
-name: "GitHub开源"
+name: "GitHub"
 description: "提供项目托管、代码贡献及全球开发者协作指南。"
 ---
 

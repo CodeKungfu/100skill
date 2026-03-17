@@ -1,5 +1,5 @@
 ---
-name: "钉钉"
+name: "DingTalk"
 description: "提供钉钉企业协作、智能考勤及在线会议指引。"
 ---
 

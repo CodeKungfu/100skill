@@ -1,5 +1,5 @@
 ---
-name: "知识付费"
+name: "Knowledge Paid"
 description: "提供得到/知乎盐选等付费专栏、精品讲座获取指南。"
 ---
 

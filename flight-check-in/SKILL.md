@@ -1,5 +1,5 @@
 ---
-name: "航班值机"
+name: "Flight Check-in"
 description: "提供在线选座、行李托运规则及延误证明获取指引。"
 ---
 

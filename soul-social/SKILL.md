@@ -1,5 +1,5 @@
 ---
-name: "Soul社交"
+name: "Soul Social"
 description: "提供星系匹配、瞬间广场及灵魂交友互动指南。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "酒店预订"
+name: "Hotel Reservation"
 description: "提供全平台酒店比价、真实点评及入住避坑指引。"
 ---
 

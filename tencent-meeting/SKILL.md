@@ -1,5 +1,5 @@
 ---
-name: "腾讯会议"
+name: "Tencent Meeting"
 description: "提供腾讯云视频会议、屏幕共享及在线协作指引。"
 ---
 

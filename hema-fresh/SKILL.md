@@ -1,5 +1,5 @@
 ---
-name: "盒马鲜生"
+name: "Hema Fresh"
 description: "提供盒马生鲜配送、到店取货及会员权益指引。"
 ---
 

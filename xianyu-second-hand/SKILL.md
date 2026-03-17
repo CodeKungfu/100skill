@@ -1,5 +1,5 @@
 ---
-name: "闲鱼转卖"
+name: "Xianyu"
 description: "提供闲鱼闲置交易、信用保障及捡漏攻略指引。"
 ---
 

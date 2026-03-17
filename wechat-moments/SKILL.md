@@ -1,5 +1,5 @@
 ---
-name: "微信朋友圈"
+name: "WeChat Moments"
 description: "提供朋友圈互动技巧、隐私设置及内容分享指引。"
 ---
 

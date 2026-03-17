@@ -1,5 +1,5 @@
 ---
-name: "哔哩哔哩"
+name: "Bilibili"
 description: "提供B站动漫、番剧、UP主视频及弹幕交流指引。"
 ---
 

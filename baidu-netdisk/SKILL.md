@@ -1,5 +1,5 @@
 ---
-name: "百度网盘"
+name: "Baidu Netdisk"
 description: "提供百度云存储、文件共享及极速下载指引。"
 ---
 

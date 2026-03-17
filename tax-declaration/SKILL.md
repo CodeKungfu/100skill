@@ -1,5 +1,5 @@
 ---
-name: "个税申报"
+name: "Tax Declaration"
 description: "提供个人所得税APP汇算清缴、专项扣除及政策解析指引。"
 ---
 

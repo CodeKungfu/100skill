@@ -1,5 +1,5 @@
 ---
-name: "当地向导"
+name: "Local Guide"
 description: "提供非遗体验、地道寻味及深度人文游指引。"
 ---
 

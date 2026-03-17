@@ -1,5 +1,5 @@
 ---
-name: "垃圾分类"
+name: "Waste Sorting"
 description: "提供各类废弃物分类、上门回收及知识科普指引。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "作业帮搜题"
+name: "Zuoyebang"
 description: "提供拍照搜题、名师讲题及学习诊断工具指南。"
 ---
 

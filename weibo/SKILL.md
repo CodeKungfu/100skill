@@ -1,5 +1,5 @@
 ---
-name: "微博"
+name: "Weibo"
 description: "提供微博实时热点、明星动态及社交互动指引。"
 ---
 

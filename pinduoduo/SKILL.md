@@ -1,5 +1,5 @@
 ---
-name: "拼多多"
+name: "Pinduoduo"
 description: "提供拼多多拼团购物、百亿补贴及社交电商指引。"
 ---
 

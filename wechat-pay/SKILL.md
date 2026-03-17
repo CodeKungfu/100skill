@@ -1,5 +1,5 @@
 ---
-name: "微信支付"
+name: "WeChat Pay"
 description: "提供微信条码支付、转账、红包及账单管理指引。"
 ---
 

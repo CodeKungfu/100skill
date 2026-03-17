@@ -1,5 +1,5 @@
 ---
-name: "信用卡还款"
+name: "Credit Card Repayment"
 description: "提供跨行还款、账单分歧及提额攻略指引。"
 ---
 

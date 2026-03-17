@@ -1,5 +1,5 @@
 ---
-name: "抖音"
+name: "Douyin"
 description: "提供抖音短视频浏览、直播购物及特效创作指引。"
 ---
 

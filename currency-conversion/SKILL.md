@@ -1,6 +1,6 @@
 ---
-name: "汇率转换"
-description: "提供实时外汇行情、银行结售汇参考及换钱攻略。"
+name: "Currency Conversion"
+description: "提供实时外汇行情、银行结售汇参考及换钱攻略. "
 ---
 
 # 汇率转换

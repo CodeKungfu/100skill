@@ -1,5 +1,5 @@
 ---
-name: "夸克浏览器"
+name: "Quark Browser"
 description: "提供夸克智能搜索、文件扫描及极简上网指引。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "美团"
+name: "Meituan"
 description: "提供美团外卖、团购、酒店及本地生活服务指引。"
 ---
 

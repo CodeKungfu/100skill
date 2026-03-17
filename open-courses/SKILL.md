@@ -1,5 +1,5 @@
 ---
-name: "精品公开课"
+name: "Open Courses"
 description: "提供网易公开课/B站知识区名师课程获取指南。"
 ---
 

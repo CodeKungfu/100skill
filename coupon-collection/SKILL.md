@@ -1,5 +1,5 @@
 ---
-name: "神券领取"
+name: "Coupon Collection"
 description: "提供全平台优惠券、红包封面及免单机会汇总指南。"
 ---
 

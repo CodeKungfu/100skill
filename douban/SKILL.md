@@ -1,5 +1,5 @@
 ---
-name: "豆瓣"
+name: "Douban"
 description: "提供豆瓣影视评分、书评影评及兴趣小组发现指引。"
 ---
 

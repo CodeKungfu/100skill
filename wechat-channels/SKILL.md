@@ -1,5 +1,5 @@
 ---
-name: "微信视频号"
+name: "WeChat Channels"
 description: "提供视频号内容浏览、创作者互动及直播广场指引。"
 ---
 

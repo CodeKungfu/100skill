@@ -1,5 +1,5 @@
 ---
-name: "支付宝"
+name: "Alipay"
 description: "提供支付宝便捷支付、生活账单及金融理财指引。"
 ---
 

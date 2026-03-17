@@ -1,5 +1,5 @@
 ---
-name: "TED演讲"
+name: "TED Talks"
 description: "提供全球思想洞察、中英双语字幕及核心观点解析。"
 ---
 

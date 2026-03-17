@@ -1,5 +1,5 @@
 ---
-name: "社区团购"
+name: "Community Group Buy"
 description: "提供多多买菜/美团优选次日提货及优惠抢购指引。"
 ---
 

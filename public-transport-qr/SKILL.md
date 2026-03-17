@@ -1,5 +1,5 @@
 ---
-name: "公共交通乘车码"
+name: "Public Transport QR"
 description: "提供全国各地地铁公交乘车码、线路查询指南。"
 ---
 

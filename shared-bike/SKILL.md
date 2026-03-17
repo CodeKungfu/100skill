@@ -1,5 +1,5 @@
 ---
-name: "共享单车"
+name: "Shared Bike"
 description: "提供哈啰/美团单车扫码开锁、骑行范围及计费指引。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "探探交友"
+name: "Tantan"
 description: "提供精准兴趣匹配、社交安全保障及真诚社交指引。"
 ---
 

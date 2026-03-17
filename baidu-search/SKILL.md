@@ -1,5 +1,5 @@
 ---
-name: "百度搜索"
+name: "Baidu Search"
 description: "提供百度精准搜索、百科查询及多模态找寻指引。"
 ---
 

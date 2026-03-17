@@ -1,5 +1,5 @@
 ---
-name: "企业微信"
+name: "WeChat Work"
 description: "提供企业内部通讯、私域流量管理及办公协同指引。"
 ---
 

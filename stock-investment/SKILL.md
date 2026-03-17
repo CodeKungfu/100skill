@@ -1,5 +1,5 @@
 ---
-name: "证券投资"
+name: "Stock Investment"
 description: "提供股市行情分析、开户指导及交易规则解析指引。"
 ---
 

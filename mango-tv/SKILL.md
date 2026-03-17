@@ -1,5 +1,5 @@
 ---
-name: "芒果TV"
+name: "Mango TV"
 description: "提供芒果热门综艺、青春剧集及粉丝互动指引。"
 ---
 

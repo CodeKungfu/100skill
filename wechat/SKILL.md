@@ -1,5 +1,5 @@
 ---
-name: "微信"
+name: "WeChat"
 description: "提供微信日常社交、社交支付及生态服务指引。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "支付宝钱包"
+name: "Alipay Wallet"
 description: "提供支付宝资产管理、卡包及收支分析指引。"
 ---
 

@@ -1,6 +1,6 @@
 ---
-name: "政务服务"
-description: "提供浙里办/豫事办等在线办事、政策咨询及进度查询指引。"
+name: "Government Services"
+description: "提供浙里办/豫事办等在线办事、政策咨询及进度查询指引. "
 ---
 
 # 政务服务

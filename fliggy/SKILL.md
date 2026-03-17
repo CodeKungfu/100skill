@@ -1,5 +1,5 @@
 ---
-name: "飞猪"
+name: "Fliggy"
 description: "提供飞猪旅游优惠、度假套餐及航空出行配套指引。"
 ---
 

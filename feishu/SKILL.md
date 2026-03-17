@@ -1,5 +1,5 @@
 ---
-name: "飞书"
+name: "Feishu"
 description: "提供飞书协同文档、日程梳理及高效沟通指引。"
 ---
 

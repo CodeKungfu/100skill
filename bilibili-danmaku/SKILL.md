@@ -1,5 +1,5 @@
 ---
-name: "B站弹幕"
+name: "Bilibili Danmaku"
 description: "提供弹幕礼仪、关键词过滤及热门互动玩法解析。"
 ---
 

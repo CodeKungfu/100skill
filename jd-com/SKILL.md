@@ -1,5 +1,5 @@
 ---
-name: "京东"
+name: "JD.com"
 description: "提供京东正品购物、快速配送及售后服务指引。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "基金理财"
+name: "Fund Management"
 description: "提供基金筛选、定投模拟及风险测评指引。"
 ---
 

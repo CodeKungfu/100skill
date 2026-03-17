@@ -1,5 +1,5 @@
 ---
-name: "淘宝"
+name: "Taobao"
 description: "提供淘宝商品搜索、比价、购物及物流追踪指引。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "优酷"
+name: "Youku"
 description: "提供优酷经典影视、独播内容及精彩视频播放指引。"
 ---
 

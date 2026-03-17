@@ -1,5 +1,5 @@
 ---
-name: "百度贴吧"
+name: "Baidu Tieba"
 description: "提供贴吧兴趣入伙、精华内容及吧友互动交流指引。"
 ---
 

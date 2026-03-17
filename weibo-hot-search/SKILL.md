@@ -1,5 +1,5 @@
 ---
-name: "微博热搜"
+name: "Weibo Hot Search"
 description: "提供实时热搜解析、趋势洞察及社会新闻跟踪指南。"
 ---
 

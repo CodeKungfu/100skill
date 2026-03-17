@@ -1,5 +1,5 @@
 ---
-name: "猿辅导教育"
+name: "Yuanfudao"
 description: "提供在线正价课选购、学习系统使用及名师指引。"
 ---
 

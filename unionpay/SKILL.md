@@ -1,5 +1,5 @@
 ---
-name: "云闪付"
+name: "UnionPay"
 description: "提供银联扫码支付、转账及银行卡优惠汇总指引。"
 ---
 

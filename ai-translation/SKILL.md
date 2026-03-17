@@ -1,5 +1,5 @@
 ---
-name: "AI翻译"
+name: "AI Translation"
 description: "提供文档同声传译、拍照取词及多语种专业对译。"
 ---
 

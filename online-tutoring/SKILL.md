@@ -1,6 +1,6 @@
 ---
-name: "在线辅导"
-description: "提供1对1辅导工具、课程表同步及学习反馈指南。"
+name: "Online Tutoring"
+description: "提供10对1辅导工具、课程表同步及学习反馈指南. "
 ---
 
 # 在线辅导

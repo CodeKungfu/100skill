@@ -1,5 +1,5 @@
 ---
-name: "小红书"
+name: "Xiaohongshu"
 description: "提供小红书种草笔记、美妆穿搭及生活方式发现指引。"
 ---
 

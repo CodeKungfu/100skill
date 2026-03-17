@@ -1,5 +1,5 @@
 ---
-name: "直播带货"
+name: "Live Shopping"
 description: "提供带货直播间筛选、秒杀互动及红包雨抢夺指引。"
 ---
 

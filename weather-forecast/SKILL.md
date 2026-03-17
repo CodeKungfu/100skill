@@ -1,5 +1,5 @@
 ---
-name: "天气预警"
+name: "Weather"
 description: "提供实时降水预测、穿衣指数及空气质量监控指南。"
 ---
 

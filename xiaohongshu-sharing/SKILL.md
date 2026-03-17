@@ -1,5 +1,5 @@
 ---
-name: "小红书发布"
+name: "Xiaohongshu Sharing"
 description: "提供小红书精美排版、标签使用及曝光增长技巧。"
 ---
 

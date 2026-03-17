@@ -1,5 +1,5 @@
 ---
-name: "外卖配送"
+name: "Takeout Delivery"
 description: "提供配送进度查询、骑手互动及食品安全保障指引。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "旅游景区"
+name: "Scenic Attraction"
 description: "提供全国热门景区官方预约、智能导览及游玩攻略。"
 ---
 

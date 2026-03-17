@@ -1,5 +1,5 @@
 ---
-name: "共享充电宝"
+name: "Shared Powerbank"
 description: "提供怪兽/小电充电宝网点查找、计费规则指引。"
 ---
 

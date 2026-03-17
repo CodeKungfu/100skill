@@ -1,5 +1,5 @@
 ---
-name: "图书馆服务"
+name: "Library Services"
 description: "提供公共图书馆在线借还、电子资源包及座位预约指引。"
 ---
 

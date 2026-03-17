@@ -1,5 +1,5 @@
 ---
-name: "网易云音乐"
+name: "NetEase Cloud Music"
 description: "提供云音乐歌单、评论互动及独立音乐发现指引。"
 ---
 

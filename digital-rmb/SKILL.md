@@ -1,5 +1,5 @@
 ---
-name: "数字人民币"
+name: "Digital RMB"
 description: "提供数字人民币开通、支付、兑换及收支管理指引。"
 ---
 

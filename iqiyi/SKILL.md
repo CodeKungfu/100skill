@@ -1,5 +1,5 @@
 ---
-name: "爱奇艺"
+name: "iQIYI"
 description: "提供爱奇艺独家自制剧、电影及综艺点播指引。"
 ---
 

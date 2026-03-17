@@ -1,5 +1,5 @@
 ---
-name: "微信读书"
+name: "WeChat Read"
 description: "提供微信社交阅读、出版图书及读书笔记指南。"
 ---
 

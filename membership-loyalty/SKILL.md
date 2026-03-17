@@ -1,5 +1,5 @@
 ---
-name: "会员权益"
+name: "Membership"
 description: "提供各大品牌会员积分兑换、联名卡及特权指引。"
 ---
 

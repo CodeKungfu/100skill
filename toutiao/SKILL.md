@@ -1,5 +1,5 @@
 ---
-name: "今日头条"
+name: "Toutiao"
 description: "提供头条实时新闻、个性化资讯及深度报道指引。"
 ---
 

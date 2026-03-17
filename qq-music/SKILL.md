@@ -1,5 +1,5 @@
 ---
-name: "QQ音乐"
+name: "QQ Music"
 description: "提供QQ音乐海量正版、数字专辑及听歌识别指引。"
 ---
 

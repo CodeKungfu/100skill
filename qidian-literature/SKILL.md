@@ -1,5 +1,5 @@
 ---
-name: "起点读书"
+name: "Qidian Literature"
 description: "提供网文神作阅读、作者互动及月票打赏指南。"
 ---
 

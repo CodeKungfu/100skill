@@ -1,5 +1,5 @@
 ---
-name: "米家智能家居"
+name: "Mi Home IOT"
 description: "提供米家设备互联、场景自动化及语音控制指引。"
 ---
 

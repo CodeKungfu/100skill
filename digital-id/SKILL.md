@@ -1,5 +1,5 @@
 ---
-name: "电子身份证"
+name: "Digital ID"
 description: "提供电子证照领取、机场酒店验证及线下政务指引。"
 ---
 

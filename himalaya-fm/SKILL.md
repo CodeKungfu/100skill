@@ -1,5 +1,5 @@
 ---
-name: "喜马拉雅"
+name: "Ximalaya"
 description: "提供喜马拉雅听书、播客及有声书内容获取指引。"
 ---
 

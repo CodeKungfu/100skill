@@ -1,5 +1,5 @@
 ---
-name: "餐厅排号"
+name: "Restaurant Queue"
 description: "提供美味不用等/微信取号避坑、实时进度查看指引。"
 ---
 

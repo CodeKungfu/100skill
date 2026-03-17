@@ -1,5 +1,5 @@
 ---
-name: "腾讯视频"
+name: "Tencent Video"
 description: "提供腾讯独播剧、体育赛事及院线电影观看指引。"
 ---
 

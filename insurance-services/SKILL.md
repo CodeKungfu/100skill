@@ -1,5 +1,5 @@
 ---
-name: "保险服务"
+name: "Insurance Services"
 description: "提供各类保险方案解析、在线理赔及合同管理指引。"
 ---
 

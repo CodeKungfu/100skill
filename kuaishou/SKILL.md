@@ -1,5 +1,5 @@
 ---
-name: "快手"
+name: "Kuaishou"
 description: "提供快手生活短视频、直播互动及乡村文化发现指引。"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "智能导航"
+name: "Navigation Map"
 description: "提供高精地图使用、AR实景导航及躲避拥堵指南。"
 ---
 

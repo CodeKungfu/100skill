@@ -1,6 +1,6 @@
 ---
-name: "学习小组"
-description: "提供考研/公考打卡群、自习室预约及互助学习指引。"
+name: "Study Group"
+description: "提供考研/公考打卡群、自习室预约及互助学习指引。 "
 ---
 
 # 学习小组

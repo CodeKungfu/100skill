@@ -1,5 +1,5 @@
 ---
-name: "水电煤缴费"
+name: "Utility Payment"
 description: "提供家庭生活缴费汇总、自动划扣及账单核对指引。"
 ---
 

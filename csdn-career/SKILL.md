@@ -1,5 +1,5 @@
 ---
-name: "CSDN技术栈"
+name: "CSDN"
 description: "提供程序员职业发展、技术博客及开源项目指引。"
 ---
 

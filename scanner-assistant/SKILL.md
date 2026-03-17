@@ -1,5 +1,5 @@
 ---
-name: "扫描助手"
+name: "Scanner Assistant"
 description: "提供手机全能扫描、文字识别及格式转换指引。"
 ---
 

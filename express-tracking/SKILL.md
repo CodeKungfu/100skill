@@ -1,5 +1,5 @@
 ---
-name: "快递查询"
+name: "Express Tracking"
 description: "提供跨平台快递实时轨迹监控及自助取件指引。"
 ---
 
